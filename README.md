@@ -1,6 +1,7 @@
 # ANALYSIS AND VISUALIZATION OF INDIAN IMPORTS AND EXPORTS 
 
-##INTRODUCTION
+## INTRODUCTION
+
 This Project is primarily focused on analyzing the dataset of Indian exports and imports and identifying data patterns. 
 Foreign trade includes import and export. Importing is the purchase of foreign goods and services by a nation's inhabitants, businesses, and government.
 Regardless of how they are brought into the country. They can be sent, emailed, or even carried aboard an aircraft in one's personal luggage. 
